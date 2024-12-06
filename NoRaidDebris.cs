@@ -7,7 +7,7 @@
 namespace Oxide.Plugins
 {
     [Info("No Raid Debris", "VisEntities", "1.0.0")]
-    [Description("Disables debris that blocks building during raids.")]
+    [Description("Disables debris that block building during raids")]
     public class NoRaidDebris : RustPlugin
     {
         #region Fields
